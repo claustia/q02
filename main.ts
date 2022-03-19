@@ -52,6 +52,7 @@ mbitbot.All_servo(
 0,
 180
 )
+basic.pause(2000)
 basic.forever(function () {
     第一步()
     第二步()
